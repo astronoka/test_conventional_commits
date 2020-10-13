@@ -1,3 +1,12 @@
+# 1.6.0 (2020-10-13)
+
+
+### Features
+
+* **Feat02:** Added Feat02 ([a808cfa](https://github.com/astronoka/test_conventional_commits/commit/a808cfafa45d7288f063aa07ff67026f1be650a6))
+
+
+
 # 1.5.0 (2020-10-13)
 
 
