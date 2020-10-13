@@ -1,0 +1,23 @@
+{
+  "name": "test_conventional_commits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "shipjs prepare"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astronoka/test_conventional_commits.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astronoka/test_conventional_commits/issues"
+  },
+  "homepage": "https://github.com/astronoka/test_conventional_commits#readme",
+  "devDependencies": {
+    "shipjs": "0.22.0"
+  }
+}
