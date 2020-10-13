@@ -1,3 +1,12 @@
+# 1.5.0 (2020-10-13)
+
+
+### Features
+
+* **Feat01:** Added Feat01 ([d38e8af](https://github.com/astronoka/test_conventional_commits/commit/d38e8af043167228c2c2af06375a32e730f5ec9d))
+
+
+
 # 1.4.0 (2020-10-13)
 
 
