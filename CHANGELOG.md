@@ -1,3 +1,12 @@
+# 1.3.0 (2020-10-13)
+
+
+### Features
+
+* **Feature3:** Added feature3 ([64a8401](https://github.com/astronoka/test_conventional_commits/commit/64a8401c736755479a905278639678f8b82311b6))
+
+
+
 # 1.2.0 (2020-10-13)
 
 
