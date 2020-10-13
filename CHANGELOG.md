@@ -1,3 +1,12 @@
+# 1.4.0 (2020-10-13)
+
+
+### Features
+
+* **Feature4:** Add Feature4 ([796a6b0](https://github.com/astronoka/test_conventional_commits/commit/796a6b099e44d76f25a825309eb627713700153c))
+
+
+
 # 1.3.0 (2020-10-13)
 
 
